@@ -1,0 +1,7 @@
+fn,imputedSeq,sz,px,sp,dir
+ABIDE/ABIDE_1/50412/MP-RAGE/2000-01-01_00_00_00.0/S164292,MPR,"(106, 256, 256)",16-bit signed integer,"(1.4, 1.0, 1.0)","(1, 0, 0, 0, -1, 0, 0, 0, 1)"
+ABVIB/ABVIB/3830/MPRAGE/2012-06-18_11_46_49.0/S341930,MPR,"(256, 256, 192)",16-bit unsigned integer,"(1.0, 1.0, 1.0)","(0, 0, -1, 1, 0, 0, 0, -1, 0)"
+ADNI/ADNI1_Complete_1Yr_1.5T/ADNI/023_S_0139/MPR-R__GradWarp__B1_Correction__N3__Scaled/2007-02-09_09_44_27.0/S26343,MPR,"(192, 192, 160)",32-bit float,"(1.26, 1.25, 1.19)","(0, 0, 1, 0, 1, 0, -1, 0, 0)"
+AIBL/AIBL/338/MPRAGE_SAG_ISO_p2_ND/2012-10-06_11_32_11.0/S231118,MPR,"(256, 256, 176)",16-bit unsigned integer,"(1.0, 1.0, 1.0)","(0, 0, -1, 1, 0, 0, 0, -1, 0)"
+ICMB/ICBM/UTHC_1098/MPRAGE_T1_AX_0.8_mm_TI-780/2009-03-13_13_01_09.0/S68959,MPR,"(220, 320, 208)",16-bit unsigned integer,"(0.8, 0.8, 1.0)","(1, 0, 0, 0, 1, 0, 0, 0, 1)"
+PPMI/PPMI/3505/MPRAGEadni/2010-12-23_10_50_52.0/S189286,MPR,"(288, 288, 170)",16-bit unsigned integer,"(0.92, 0.92, 1.2)","(0, 0, -1, 1, 0, 0, 0, -1, 0)"
